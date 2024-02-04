@@ -3,4 +3,4 @@ layout: layout.liquid
 title: About
 ---
 
-# About the Grotto
+# **Exploring Worlds**
