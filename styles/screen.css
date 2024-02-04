@@ -51,17 +51,26 @@ nav ul li a:hover {
 h1 {
     font-size: 8em;
     letter-spacing: -2px;
+    padding: 50px 0 0 0;
+    margin: 50px 0 0 0;
 }
 
 h2 {
-    font-size: 4em;
+    font-size: 2.3em;
     letter-spacing: -2px;
     margin-bottom: 0em;
 }
 
-p {
+h3 {
     font-size: 1.5em;
+}
+
+
+p {
+    font-size: 1.2em;
     margin-top: 1em;
+    line-height: 2em;
+    padding-bottom: 2em;
 }
 
 
@@ -79,6 +88,23 @@ p strong {
     -webkit-text-fill-color: transparent;
 }
 
-img.about {
-    opacity: 0.5;
+img {
+    padding-top: 65px;
+    float: right;
+    width: 400px;
+}
+
+#scope {
+    float: right;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    
+}
+
+#stars {
+    width: 500px;
+    float: none;
+    padding: 0px 0 0 0px;
+    margin: 0px;
 }
