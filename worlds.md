@@ -1,10 +1,11 @@
 ---
 layout: layout.liquid
-title: About
+title: Exploring Worlds
 ---
 
 # **Exploring Worlds**
 <img src="/images/telescope.jpg" alt="James Webb Telescope" id="scope">
+{% date 'January 5th' '2024' %}
 
 ## Introduction:
 
@@ -25,3 +26,5 @@ Discovering planets within habitable zones fosters hope for finding extraterrest
 ## Conclusion:
 
 The cosmic odyssey unfolds as we strive to unravel the mysteries of the universe. From powerful telescopes to ambitious robotic missions, our quest to explore undiscovered planets fuels our curiosity and imagination. The journey towards the cosmic frontier propels us into the unknown, inviting us to redefine our place in the vastness of the cosmos.
+
+(OpenAI, 2024)

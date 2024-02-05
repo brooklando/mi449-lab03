@@ -102,9 +102,17 @@ img {
     
 }
 
+
 #stars {
-    width: 500px;
-    float: none;
-    padding: 0px 0 0 0px;
-    margin: 0px;
+    width: 600px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+#earth {
+    float: left;
+}
+
+.date {
+    display: flex;
 }

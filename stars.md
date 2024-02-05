@@ -1,10 +1,11 @@
 ---
 layout: layout.liquid
-title: About
+title: Uncovering Stars
 ---
 
 # **Uncovering Stars**
 <img src="/images/stars.jpg" alt="Hubble Stars" id="stars">
+{% date 'February 4th' '2024' %}
 
 ## Introduction:
 
@@ -25,3 +26,5 @@ As we peer into the cosmos, our quest extends beyond identification to understan
 ## Conclusion:
 
 The cosmic odyssey to discover new stars is a timeless journey that blends the art of stargazing with the quest for celestial understanding. As we marvel at the brilliance overhead, this stellar quest not only reveals the beauty of the cosmos but also invites us to reflect on our place in the grand tapestry of the universe.
+
+(OpenAI, 2024)
