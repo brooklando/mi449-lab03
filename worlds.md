@@ -4,7 +4,11 @@ title: Exploring Worlds
 ---
 
 # **Exploring Worlds**
-<img src="/images/telescope.jpg" alt="James Webb Telescope" id="scope">
+<figure>
+  <img src="/images/telescope.jpg" alt="James Webb Telescope" id="scope">
+  <figcaption id="cap"><i><strong>citation</strong></i></figcaption>
+</figure>
+
 {% date 'January 5th' '2024' %}
 
 ## Introduction:

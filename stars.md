@@ -4,7 +4,10 @@ title: Uncovering Stars
 ---
 
 # **Uncovering Stars**
-<img src="/images/stars.jpg" alt="Hubble Stars" id="stars">
+<figure>
+  <img src="/images/stars.jpg" alt="Hubble Stars" id="stars">
+  <figcaption id="cap"><i>NASA, ESA, and L. Bianchi (The Johns Hopkins University); Processing: Gladys Kober (NASA/Catholic University of America)</i></figcaption>
+</figure>
 {% date 'February 4th' '2024' %}
 
 ## Introduction:

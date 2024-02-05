@@ -109,8 +109,18 @@ img {
     margin-left: 50px;
 }
 
+#starpic {
+    float: right;
+    font-size: 0.8em;
+}
+
 #earth {
     float: left;
+}
+
+#cap {
+    float: right;
+    font-size: 0.8em;
 }
 
 .date {
